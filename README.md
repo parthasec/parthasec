@@ -17,26 +17,21 @@
 
 
 
-### PARTHA - MALWARE PHANTOM 👾
+### I am Partha X22
 
-## Who Am I?
-
-Heyyo! I'm *PARTHASEC* a.k.a *PARTHA* and I'm a self-learned Full-Stack Developer and a Security Researcher with a strong interest in web development, bug hunting, saas apps and building new things.
-
-In my free time, I enjoy meeting hunting for bugs in website to protect them and I am  also confident in my development skills and always eager to learn and grow. Follow me on Twitter for the latest updates on my projects and activities.
-
-I am looking for skilled individuals in the cybersecurity field with extensive connections to help bring my projects
+I'm a self-learned Bug Bounty Hunter and a Security Researcher with a strong interest in malware development, bug hunting, saas apps.<br>
+I've always been captivated by technology, leading me to delve deep into the world of cybersecurity. Malware, viruses, and bug hunting are particularly intriguing to me
 <details>
   <summary>More about me</summary>
 
 - **Name**: Partha
 - **From**: India
-- **Bug Hunter** | **Security Researcher** | **forensics Expert**
+- **Bug Hunter** | **Security Researcher** | **Malware Development**
 - i have experience in cracking,reverse Engineering,bug Hunting,pentesting,Social engineering,malware development.
 -**Reverse Engineering**, **Malware Development**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **partha106@proton.me**
+- Reach me out at **parthax22@proton.me**
 
 </details>
 
@@ -45,13 +40,13 @@ I am looking for skilled individuals in the cybersecurity field with extensive c
 
 ## Current Status -
 
-🔍 Exploring the depths of malware development and cybersecurity with insatiable curiosity.
+👉 Continuosly learning bug hunting and malware development.
 
-🛠️ Crafting tools and insights to decode, analyze, and defend against digital threats.
+👉 Building and Contributing to open source projects.
 
-🚀 Excited to collaborate on innovative solutions and research in cybersecurity.
+👉 Excited to collaborate on innovative solutions and research in cybersecurity.
 
-💭 Ask me about #Stealth and Persistence and #Command and Control (C&C)
+👉 Started learning Web3 and mobile pentesting
 
 
 
