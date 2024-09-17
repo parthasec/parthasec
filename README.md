@@ -6,7 +6,7 @@
   </a>
 </div>
 <h2 align="Center">
-  Namaskar
+  X22
 
   <img src="https://github.com/user-attachments/assets/35e18cb0-3fcf-4826-80d9-f4da17b24d6e" width="25px"/>
 </h2>
