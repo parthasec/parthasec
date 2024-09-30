@@ -20,7 +20,7 @@ I've always been captivated by technology, leading me to delve deep into the wor
 <details>
   <summary>More about me</summary>
 
-- **Name**: Partha
+- **Name**: X22
 - **From**: India
 - **Bug Hunter** | **Security Researcher** | **Malware Development**
 - i have experience in cracking,reverse Engineering,bug Hunting,pentesting,Social engineering,malware development.
@@ -50,15 +50,15 @@ I've always been captivated by technology, leading me to delve deep into the wor
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthasec&theme=vision-friendly-dark)](https://github.com/parthasec/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=parthasec&theme=dark&card_width=450)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/parthasec/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthasec&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthax22&theme=vision-friendly-dark)](https://github.com/parthax22/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=parthax22&theme=dark&card_width=450)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/parthax22/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthax22&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
 
 
 
 
 ## 📫 Connect with Me
-- *Twitter:* [@parthasec](https://x.com/parthasec)
+- *Twitter:* [@parthasec](https://x.com/parthax22)
 - *Telegram:* [@parthasec](https://t.me/parthasec)
 
